@@ -1,4 +1,4 @@
-# fast-hash-map-v0
+# fast-hash-map-v0 (non functional)
 The initial version of fast hashmap
 
 # ## Prerequisites
